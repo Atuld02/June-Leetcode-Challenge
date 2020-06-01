@@ -1,2 +1,2 @@
 # June-Leetcode-Challenge
-This repository will contain solutions to June Leetcode Challenges
+This repository will contain solutions to June Leetcode Challenges.
